@@ -1,12 +1,1 @@
-<<<<<<< Updated upstream
-upload file
-=======
-upload file
-wwwwwwwwfwefwef
-sdfdsfsd
-synchro
-
-need remove
-new stash
-eeee
->>>>>>> Stashed changes
+for merge2
