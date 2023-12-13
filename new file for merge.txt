@@ -1,5 +1,5 @@
 qwe
 bad merge resolved!!!
 
-1 commit merge
-2 commit merge
+1 commit
+2 commit
