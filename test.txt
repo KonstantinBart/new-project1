@@ -2,9 +2,4 @@ ergerge
 fix conflicts!
 yep
 
-for merge
-<<<<<<< HEAD
-diff
-=======
-for pullreq
->>>>>>> 1f2a2d49eb4a6e9eaa8551336c0c019e253ee23d
+1 task
